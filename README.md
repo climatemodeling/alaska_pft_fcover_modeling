@@ -1,4 +1,4 @@
-# Alaskan-arctic PFT-level fractional cover map
+# Alaskan-arctic PFT-level fractional cover mapping
 These notebooks examplify how to map fractional cover of several tundra plant functional types (PFTs) using a harmonized plot inventory (Stecker et al., 2024, in preparation) and high-resolution satellite-derived predictors, including Sentinel-1, Sentinel-2, and ArcticDEM. 
 
 ## Step 1: feature preparation
